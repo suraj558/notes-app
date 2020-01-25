@@ -1,2 +1,2 @@
 # notes-app
-Manage Contacts Of A Registered User
+Manage Notes Created By User
